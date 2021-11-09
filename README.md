@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @An1matedDavid
 - 👀 I’m interested in ... Python for enterprise and fun. Collecting and analysing data. Games. 
-- 🌱 I’m currently learning ... SonarQube, Tox, SQL security practices, ML basics, how the internet works.
+- 🌱 I’m currently learning ... E2E testing, Tox, SQL security practices, ML basics, how the internet works.
 - 💞️ I’m looking to collaborate on ... data projects, games, charity projects.
 - 📫 How to reach me ... pull request.
 
